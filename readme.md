@@ -1,7 +1,7 @@
 ## snake game :snake: :snake: :joystick:
 this is a 'snake game' implementation for web. Build in typescript and html.
 
-<img src="img_game/game.png">
+<img src="./img_game/game.png">
 
 ## run game
 
