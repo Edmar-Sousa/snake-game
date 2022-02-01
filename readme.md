@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 Esse projeto é uma implementação do jogo 'snake', feito em para estudar a tipagem statica do Typescrpt
-O projeto consite um uma sequencia de quadrados representando a cobra, que deve "rastejar" e comer maçãs 
+O projeto consite um uma sequência de quadrados representando a cobra, que deve "rastejar" e comer maçãs 
 que são representadas pelo quadrado vermelho, que tem posição aleatória na tela.
 
 ## Design
